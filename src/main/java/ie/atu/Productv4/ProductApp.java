@@ -1,6 +1,6 @@
-package ie.atu.productv3;
+package ie.atu.Productv4;
 
-import ie.atu.productv2.Book;
+import ie.atu.productv3.Book;
 
 import java.util.Scanner;
 
